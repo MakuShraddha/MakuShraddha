@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shraddha Maku</h1>
-<h3 align="center">A passionate frontend developeI'm a Computer Science student with a passion for learning, growing, and building things that make a difference. I enjoy exploring new ideas, collaborating with others, and turning challenges into opportunities. Curious by nature and driven by purpose, I believe in continuous improvement and staying open to new experiences. Whether it's through internships, learning programs, or personal growth, I'm always looking for ways to evolve.r from India</h3>
+<h3 align="center">I'm a Computer Science student with a passion for learning, growing, and building things that make a difference. I enjoy exploring new ideas, collaborating with others, and turning challenges into opportunities. Curious by nature and driven by purpose, I believe in continuous improvement and staying open to new experiences. Whether it's through internships, learning programs, or personal growth, I'm always looking for ways to evolve.r from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=makushraddha&label=Profile%20views&color=0e75b6&style=flat" alt="makushraddha" /> </p>
 
