@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=makushraddha&label=Profile%20views&color=0e75b6&style=flat" alt="makushraddha" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=makushraddha" alt="makushraddha" /></a> </p>
+<p align="left"> <a href="https://github.com/MakuShraddha"><img src="https://github-profile-trophy.vercel.app/?username=MakuShraddha" alt="MakuShraddha" /></a> </p>
 
 - 📫 How to reach me **shraddhamaku@gmail.com**
 
