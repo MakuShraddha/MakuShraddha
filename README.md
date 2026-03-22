@@ -11,6 +11,8 @@
 
 <br><br><br>
 
+![](https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=200&section=header&text=Shraddha%20Maku&fontSize=40&fontColor=ffffff)
+
 ---
 
 ## 💫 About Me  
@@ -19,11 +21,20 @@
 
 - 👩‍🎓 Computer Science Engineering Student  
 - 🌱 Passionate about learning & building impactful solutions  
-- 💡 Curious mind who loves exploring new technologies  
-- 🤝 Enjoy collaborating and teamwork  
-- 🚀 Always looking for growth opportunities  
+- 💡 Curious and always exploring new technologies  
+- 🤝 Love teamwork and collaboration  
+- 🚀 Focused on continuous improvement  
 
 📫 Reach me at: **shraddhamaku@gmail.com**
+
+---
+
+## 👩‍💻 Experiences  
+
+- 🎓 CSE Student at Malla Reddy College Of Engineering For Women  
+- 💻 Built multiple academic & personal projects  
+- 🌐 Exploring Full Stack Development & Cloud  
+- 📚 Active learner in coding platforms  
 
 ---
 
@@ -35,8 +46,11 @@
 ### 🌐 Frontend
 ![](https://skillicons.dev/icons?i=html,css,bootstrap,react)
 
-### ⚙ Backend & Tools
-![](https://skillicons.dev/icons?i=nodejs,mongodb,mysql,firebase)
+### ⚙ Backend
+![](https://skillicons.dev/icons?i=nodejs)
+
+### 🗄 Database
+![](https://skillicons.dev/icons?i=mysql,mongodb,firebase)
 
 ### ☁ DevOps & Cloud
 ![](https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,jenkins)
@@ -55,9 +69,32 @@
 ## 🎯 Hobbies  
 
 - 🎮 Gaming  
-- 📚 Learning new things  
 - 🎧 Listening to music  
-- ✨ Exploring tech  
+- 📚 Learning new technologies  
+- 🌍 Exploring new ideas  
+
+---
+
+## 📌 Featured Projects  
+
+<span>
+<a href="https://github.com/MakuShraddha">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=MakuShraddha&repo=YOUR-REPO-NAME" />
+</a>
+<a href="https://github.com/MakuShraddha">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MakuShraddha&repo=YOUR-SECOND-REPO" />
+</a>
+</span>
+
+👉 Replace `YOUR-REPO-NAME` with your actual repositories (important!)
+
+---
+
+## ✍️ Blog / Articles  
+
+<!-- BLOG-POST-LIST:START -->
+- Coming soon... 🚀
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -77,12 +114,21 @@
 
 ---
 
-## 🏆 GitHub Trophy  
+## 🏆 GitHub Profile Trophy  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=makushraddha&theme=onedark&no-frame=true&no-bg=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=makushraddha&column=6&theme=onedark&no-frame=true&no-bg=true"/>
 </p>
 
 ---
+
+## 🔗 Connect With Me  
+
+- 💼 LinkedIn: https://linkedin.com/in/shraddha maku  
+- 💻 GitHub: https://github.com/MakuShraddha  
+
+---
+
+![](https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=120&section=footer)
 
 ⭐ *“Always learning, always growing.”*
