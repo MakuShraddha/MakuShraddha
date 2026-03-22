@@ -18,7 +18,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,100:00bfff&height=80&section=header&width=1000" width="100%"/>
 </p>
----
+
 
 ## 👩‍💻 About Me
 
