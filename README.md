@@ -1,134 +1,22 @@
-# Hey Everyone! I'm [Shraddha Maku](https://github.com/MakuShraddha) 👋  
+<marquee><h1 align="center">Hi 👋, I'm Shraddha Maku</h1></marquee>
+<h3 align="left">I'm a Computer Science student with a passion for learning, growing, and building things that make a difference. I enjoy exploring new ideas, collaborating with others, and turning challenges into opportunities. Curious by nature and driven by purpose, I believe in continuous improvement and staying open to new experiences. Whether it's through internships, learning programs, or personal growth, I'm always looking for ways to evolve.</h3>
 
-<br><br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=makushraddha&label=Profile%20views&color=0e75b6&style=flat" alt="makushraddha" /> </p>
 
-<a href="https://linkedin.com/in/shraddha maku">
-  <img align="left" alt="Shraddha's LinkedIn" width="120px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/MakuShraddha">
-  <img align="left" alt="Shraddha's Github" width="120px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
-</a>
+<p align="left"> <a href="https://github.com/MakuShraddha"><img src="https://github-profile-trophy.vercel.app/?username=MakuShraddha" alt="MakuShraddha" /></a> </p>
 
-<br><br><br>
+- 📫 How to reach me **shraddhamaku@gmail.com**
 
-![](https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=200&section=header&text=Shraddha%20Maku&fontSize=40&fontColor=ffffff)
-
----
-
-## 💫 About Me  
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40%"/>
-
-- 👩‍🎓 Computer Science Engineering Student  
-- 🌱 Passionate about learning & building impactful solutions  
-- 💡 Curious and always exploring new technologies  
-- 🤝 Love teamwork and collaboration  
-- 🚀 Focused on continuous improvement  
-
-📫 Reach me at: **shraddhamaku@gmail.com**
-
----
-
-## 👩‍💻 Experiences  
-
-- 🎓 CSE Student at Malla Reddy College Of Engineering For Women  
-- 💻 Built multiple academic & personal projects  
-- 🌐 Exploring Full Stack Development & Cloud  
-- 📚 Active learner in coding platforms  
-
----
-
-## 🛠 Skills & Technologies  
-
-### 💻 Languages
-![](https://skillicons.dev/icons?i=c,cpp,java,python,js)
-
-### 🌐 Frontend
-![](https://skillicons.dev/icons?i=html,css,bootstrap,react)
-
-### ⚙ Backend
-![](https://skillicons.dev/icons?i=nodejs)
-
-### 🗄 Database
-![](https://skillicons.dev/icons?i=mysql,mongodb,firebase)
-
-### ☁ DevOps & Cloud
-![](https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,jenkins)
-
----
-
-## 🧠 Soft Skills  
-
-- 💬 Communication  
-- 🤝 Teamwork  
-- 🧩 Problem Solving  
-- 🎯 Adaptability  
-
----
-
-## 🎯 Hobbies  
-
-- 🎮 Gaming  
-- 🎧 Listening to music  
-- 📚 Learning new technologies  
-- 🌍 Exploring new ideas  
-
----
-
-## 📌 Featured Projects  
-
-<span>
-<a href="https://github.com/MakuShraddha">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=MakuShraddha&repo=YOUR-REPO-NAME" />
-</a>
-<a href="https://github.com/MakuShraddha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MakuShraddha&repo=YOUR-SECOND-REPO" />
-</a>
-</span>
-
-👉 Replace `YOUR-REPO-NAME` with your actual repositories (important!)
-
----
-
-## ✍️ Blog / Articles  
-
-<!-- BLOG-POST-LIST:START -->
-- Coming soon... 🚀
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 📊 GitHub Stats  
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=makushraddha&show_icons=true&locale=en&layout=compact" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/shraddha maku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shraddha maku" height="30" width="40" /></a>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=makushraddha&show_icons=true&locale=en" />
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=makushraddha" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=makushraddha&show_icons=true&locale=en&layout=compact" alt="makushraddha" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=makushraddha&show_icons=true&locale=en" alt="makushraddha" /></p>
 
-## 🏆 GitHub Profile Trophy  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=makushraddha&column=6&theme=onedark&no-frame=true&no-bg=true"/>
-</p>
-
----
-
-## 🔗 Connect With Me  
-
-- 💼 LinkedIn: https://linkedin.com/in/shraddha maku  
-- 💻 GitHub: https://github.com/MakuShraddha  
-
----
-
-![](https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=120&section=footer)
-
-⭐ *“Always learning, always growing.”*
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=makushraddha&" alt="makushraddha" /></p>
