@@ -125,7 +125,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/shraddha maku">
+<a href="https://www.linkedin.com/in/shraddhamaku/">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <a href="mailto:shraddhamaku@gmail.com">
