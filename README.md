@@ -33,7 +33,7 @@
 ## 🧩 Project Domains
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI-Projects-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-blueviolet?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/NLP-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Web%20Development-blue?style=for-the-badge"/>
