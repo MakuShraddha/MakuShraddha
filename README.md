@@ -30,37 +30,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/MakuShraddha/codedna">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MakuShraddha&repo=codedna&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/MakuShraddha/ai-task-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MakuShraddha&repo=ai-task-system&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/MakuShraddha/Development-of-AI-Powered-Loan-Eligibility-Advisory-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MakuShraddha&repo=Development-of-AI-Powered-Loan-Eligibility-Advisory-System&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/MakuShraddha/Fraud-Detection-In-Banking-Data">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MakuShraddha&repo=Fraud-Detection-In-Banking-Data&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/MakuShraddha/Smart-Bookmark">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MakuShraddha&repo=Smart-Bookmark&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/MakuShraddha/Spam-Email-Classification-using-NLP-and-MachineLearning">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MakuShraddha&repo=Spam-Email-Classification-using-NLP-and-MachineLearning&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
 ## 🧩 Project Domains
 
 <p align="center">
