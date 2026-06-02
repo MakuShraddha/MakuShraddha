@@ -1,5 +1,7 @@
 <!-- 🌈 HEADER -->
-<h1 align="center">Hi 👋, I'm Shraddha Maku</h1>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=180&section=header&text=Shraddha%20Maku&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 <h3 align="center">🚀 Aspiring Software Engineer | 💡 AI & Full Stack Enthusiast | 🌱 Lifelong Learner</h3>
 
 <p align="center">
@@ -15,9 +17,6 @@
   <img src="https://img.shields.io/github/stars/MakuShraddha?affiliations=OWNER&style=for-the-badge&color=yellow" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,100:00bfff&height=80&section=header&width=1000" width="100%"/>
-</p>
 
 
 ## 👩‍💻 About Me
