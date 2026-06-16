@@ -12,12 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=makushraddha&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/MakuShraddha?label=Followers&style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/MakuShraddha?affiliations=OWNER&style=for-the-badge&color=yellow" />
-</p>
-
-
 
 ## 👩‍💻 About Me
 
